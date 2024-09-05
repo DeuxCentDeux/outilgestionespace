@@ -1,0 +1,18 @@
+flex
+
+4 b 12m²
+1 b flex
+1 b 15m²
+1 BPar 30m²
+1 sdr 30m²
+1 espace cuisine détente
+1 espace visio
+
+cowork
+
+4 b 12m²
+1 bp visio
+1 bPar 20m²
+1 open 4 postes
+2 bulles
+1 bp 

@@ -1,0 +1,148 @@
+form {
+  width: 300px;
+  margin: 0 auto;
+}
+
+.bigger {
+  margin-top : 20%;
+  font-size: 45px;
+  display : block;
+}
+
+h1 {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  background-color: #4CAF50;
+  color: white;
+  text-align: center;
+}
+
+input[type="date"],input[type="time"] {
+  text-transform: uppercase;
+}
+
+input[type="text"],
+input[type="number"],
+input[type="email"],
+input[type="time"],
+input[type="password"],
+select,
+input[type="date"] {
+  padding: 12px;
+  width: 280px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  box-shadow: none;
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+}
+
+button {
+  padding: 18px;
+  width: 280px;
+  font-size: 16px;
+  border: none;
+  color : white;
+  background-color: #5bb05d;
+  box-shadow: none;
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+}
+
+button:hover {
+  background-color: #338f35;
+}
+
+input[type="submit"] {
+  padding: 25px;
+  width: 322px;
+  font-size: 16px;
+  border: none;
+  border-radius: 1px 0 0 0;
+  color: white;
+  background-color: #5bb05d;
+  box-shadow: none;
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+}
+
+input[type="submit"]:hover {
+  background-color: #338f35;
+}
+
+input[type="checkbox"] {
+  width: 24px;
+  height: 24px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  border: none;
+  background-color: white;
+  box-shadow: none;
+  text-align: center;
+  margin-left: 2px;
+}
+
+label {
+  font-size: 22px;
+  margin-bottom: 10px;
+  text-align: center;
+  color: grey;
+}
+
+.smaller {
+  font-size: 18px;
+  margin-bottom: 10px;
+  text-align: center;
+  color: grey;
+}
+
+.reserv {
+  display: block;
+  text-align: center;
+}
+
+.horaire {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  text-align: center;
+  table-layout: auto;
+}
+
+table td {
+  padding: 8px;
+  border: 1px solid #bcbcbc;
+}
+
+table tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+
+table thead {
+  background-color: #87e78a;
+  font-weight: bold;
+  color : white ;
+}
+
+table tr:hover {
+  background-color: #ddd;
+}
+
+.bold {
+  font-weight: bold;
+  font-size: 35px;
+  display: block;
+  margin-bottom: 10px;
+  text-align: center;
+  color: red;
+}
